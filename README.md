@@ -1,2 +1,2 @@
 # devops
-This is a study note
+记录一下学习的足迹
